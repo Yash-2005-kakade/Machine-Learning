@@ -1,97 +1,92 @@
-# 📌 Fitness App Subscription Prediction
+# 🚀 Machine Learning Projects Repository
 
 ## 📌 Overview
 
-This project aims to predict whether a user will subscribe to a fitness app using Machine Learning.  
+This repository contains a collection of core Machine Learning algorithms implemented with complete workflows, including data preprocessing, model building, and evaluation.
 
-A Logistic Regression model is built with a complete preprocessing pipeline to handle both categorical and numerical features.
-
----
-
-## 🎯 Objectives
-
-- Predict user subscription behavior (0 = No, 1 = Yes)  
-- Understand key factors influencing subscriptions  
-- Build an end-to-end ML pipeline  
-- Evaluate model performance using multiple metrics  
+Each project is organized in a structured format with datasets, code, and detailed explanations.
 
 ---
 
-## 📊 Dataset Features
+## 📂 Projects Included
 
-### 🔢 Numerical Features
-- Age  
-- Monthly_Income  
-- Workout_Frequency  
-- App_Usage_Time  
-- Trial_Days_Used  
-
-### 🔤 Categorical Features
-- Preferred_Workout (Cardio, Strength, Yoga, etc.)  
-- Diet_Type (Vegetarian, Non-Vegetarian, Vegan)  
-- Fitness_Level (Beginner, Intermediate, Advanced)  
-- Device_Type (iOS, Android)  
-
-### 🎯 Target
-- Subscription_Status (0 or 1)
+### 📈 Linear Regression
+- Predicts continuous values (House Price Prediction)
+- Achieved high accuracy with strong linear relationships  
 
 ---
 
-## ⚙️ Tech Stack
+### 📊 Logistic Regression
+- Classification model for predicting user subscription behavior  
+- Includes full preprocessing pipeline and evaluation metrics  
+
+---
+
+### 🌳 Decision Tree Classifier
+- Tree-based classification model  
+- Demonstrates rule-based decision making  
+
+---
+
+### 🌳📉 Decision Tree Regressor
+- Predicts continuous values using tree-based approach  
+- Captures non-linear relationships effectively  
+
+---
+
+### 🌲 Random Forest
+- Ensemble learning method using multiple decision trees  
+- Improves accuracy and reduces overfitting  
+
+---
+
+## ⚙️ Common Workflow
+
+All projects follow a structured Machine Learning pipeline:
+
+1. Data Collection & Cleaning  
+2. Handling Missing Values  
+3. Feature Encoding  
+4. Feature Scaling (if required)  
+5. Model Training  
+6. Model Evaluation  
+
+---
+
+## 🛠️ Tech Stack
 
 - Python 🐍  
-- Pandas & NumPy  
+- Pandas  
+- NumPy  
 - Scikit-learn  
 - Matplotlib & Seaborn  
 
 ---
 
-## 🔄 Workflow
+## 📊 Key Learnings
 
-1. Data Collection & Cleaning  
-2. Feature Encoding  
-   - OneHotEncoder (Nominal data)  
-   - OrdinalEncoder (Ordered data)  
-3. Feature Scaling (StandardScaler)  
-4. Model Building (Logistic Regression)  
-5. Model Evaluation  
-6. Visualization  
+- Understanding of regression and classification algorithms  
+- Importance of preprocessing and feature engineering  
+- Model evaluation using appropriate metrics  
+- Handling overfitting and improving performance  
 
 ---
 
-## 🏗️ Pipeline Structure
+## 📌 Future Improvements
 
-- ColumnTransformer used for preprocessing  
-- Pipeline integrates preprocessing + model  
-- Ensures clean and reproducible workflow  
-
----
-
-## 📈 Model Evaluation
-
-- Accuracy: **75%**  
-- Precision: **72%**  
-- Recall: **79%**  
-- F1 Score: **75%**  
-
-### 📊 Metrics Used:
-- Confusion Matrix  
-- Classification Report  
-- ROC Curve  
-
----
-
-## 🔍 Key Insights
-
-- Higher app usage time increases subscription chances  
-- Workout frequency strongly influences user conversion  
-- Engagement is more important than income  
-- Model captures most subscribers (high recall)  
-- Some false positives exist (moderate precision)  
-- Balanced dataset improved model reliability  
+- Add advanced models (XGBoost, SVM, Neural Networks)  
+- Hyperparameter tuning using GridSearchCV  
+- Deploy models using Flask / Streamlit  
 
 ---
 
 ## 🙌 Conclusion
 
-This project demonstrates how a well-structured ML pipeline can effectively predict user behavior and provide actionable business insights for improving user engagement and conversions.
+This repository showcases practical implementation of fundamental Machine Learning algorithms and serves as a strong foundation for real-world ML applications.
+
+---
+
+## 🔗 Connect with Me
+
+- LinkedIn: (Add your link here)
+- GitHub: (Your profile link)

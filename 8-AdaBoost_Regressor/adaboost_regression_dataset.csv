@@ -1,0 +1,1010 @@
+Age,Experience_Years,Education_Level,Department,Num_Projects,Performance_Score,Certifications,Remote_Work,Overtime_Hours,Training_Hours,Annual_Salary_Lakhs
+50,28,Bachelor,Finance,15,2.92,4,0,3,70,34.13
+36,13,Bachelor,HR,12,3.67,4,0,10,69,26.91
+29,6,Bachelor,HR,1,3.76,3,1,4,10,19.52
+42,21,Bachelor,Engineering,13,3.28,4,0,16,81,30.03
+40,16,Master,Data Science,14,3.85,2,1,19,92,32.86
+44,21,Master,Marketing,8,2.24,5,0,6,88,30.35
+32,10,Bachelor,Engineering,8,2.26,1,1,14,62,21.68
+32,11,PhD,HR,12,2.52,4,0,14,20,29.54
+45,21,PhD,Marketing,1,3.55,2,1,13,2,29.78
+57,35,Bachelor,Engineering,11,2.64,1,1,12,81,40.28
+45,23,Master,HR,8,2.85,1,0,10,87,29.13
+24,1,Master,Finance,10,3.2,4,0,12,9,20.92
+43,20,Master,Finance,19,4.44,2,0,8,26,33.88
+23,1,Bachelor,Engineering,11,2.04,5,0,9,11,18.26
+45,22,Master,Engineering,7,3.95,4,1,3,6,29.21
+51,30,Bachelor,HR,11,4.01,3,1,16,16,34.76
+59,35,Master,HR,17,4.4,1,0,13,64,46.49
+23,2,Master,HR,1,4.8,4,0,17,63,21.1
+42,19,Master,Finance,8,2.06,1,0,10,25,26.58
+54,34,Master,Engineering,6,2.46,2,1,15,14,38.3
+33,9,Master,HR,18,4.66,0,0,0,32,29.38
+43,19,High School,Data Science,6,3.38,4,1,6,61,26.34
+46,24,Bachelor,Marketing,5,3.69,5,1,9,46,32.83
+48,26,Master,HR,13,3.99,4,0,8,94,38.2
+49,29,Bachelor,HR,19,4.04,1,1,2,34,37.91
+37,13,High School,Marketing,8,4.8,2,1,13,64,27.17
+36,16,Bachelor,Engineering,9,4.99,3,1,14,71,32.79
+24,2,Bachelor,HR,17,4.16,5,0,1,75,23.78
+58,35,PhD,Data Science,3,2.86,2,0,13,82,40.91
+28,4,Master,Marketing,19,4.64,4,1,15,24,30.03
+42,21,PhD,Data Science,11,2.15,3,1,6,56,32.18
+30,7,Master,HR,17,2.69,2,1,3,31,26.72
+39,17,Bachelor,Marketing,19,4.69,0,1,17,62,33.24
+25,3,Bachelor,Engineering,2,2.77,5,1,4,11,16.52
+46,25,Master,Data Science,8,2.66,1,1,5,62,31.2
+35,14,High School,HR,19,2.41,2,0,6,76,26.56
+30,10,PhD,Finance,7,4.58,2,1,14,91,30.36
+47,27,Master,Data Science,17,3.5,0,1,0,0,34.5
+23,0,Bachelor,Data Science,6,4.02,4,1,3,50,17.18
+41,18,PhD,Engineering,19,2.72,5,1,0,69,34.69
+49,25,Master,Marketing,6,4.27,5,0,10,7,35.15
+28,8,Master,Finance,2,4.28,1,1,17,67,25.44
+29,7,High School,Engineering,6,2.94,2,1,13,4,18.87
+56,35,Bachelor,Data Science,5,3.23,3,0,10,88,38.36
+35,13,Master,Data Science,19,2.63,2,1,9,85,28.83
+38,17,Bachelor,Engineering,4,4.93,1,0,16,91,26.2
+57,35,High School,Data Science,17,3.94,2,0,3,38,37.61
+25,4,Master,Data Science,11,4.8,0,0,14,22,23.75
+23,0,High School,Data Science,4,2.91,2,1,15,67,11.89
+27,4,Master,HR,13,4.35,2,1,12,51,25.76
+25,1,PhD,Data Science,17,4.3,3,1,8,3,24.03
+50,30,PhD,Finance,9,4.07,0,1,10,46,38.5
+39,18,Bachelor,Finance,4,4.9,0,1,10,20,29.23
+47,25,PhD,Finance,14,3.18,2,0,5,55,33.65
+55,32,High School,HR,19,2.39,5,0,0,65,36.47
+31,8,High School,Finance,3,4.02,3,1,5,58,21.78
+57,35,Master,Marketing,14,4.19,2,0,12,6,43.51
+35,14,Bachelor,HR,8,3.73,2,1,4,48,29.22
+52,31,Bachelor,Finance,1,2.62,1,1,14,15,31.73
+36,16,Master,HR,10,3.51,1,1,17,16,29.79
+29,9,Bachelor,Finance,18,2.94,5,1,19,83,27.1
+35,11,Bachelor,Data Science,16,3.28,3,0,13,86,27.61
+44,21,Bachelor,Data Science,8,3.94,4,0,14,97,31.27
+42,22,Master,Engineering,1,4.24,1,1,4,74,29.93
+37,16,Master,Marketing,12,2.7,4,0,3,33,27.39
+39,17,Bachelor,HR,8,3.22,0,1,1,32,25.26
+45,24,Bachelor,Marketing,16,2.81,1,0,6,25,31.95
+47,24,Bachelor,Finance,18,2.6,1,1,9,65,30.18
+46,25,High School,Finance,4,4.35,3,1,15,62,32.94
+50,26,Master,Engineering,6,4.73,5,1,9,86,36.06
+36,13,Bachelor,HR,12,3.11,4,0,17,40,27.35
+22,0,Bachelor,Finance,9,4.25,1,0,16,85,19.07
+46,22,Master,Marketing,15,4.69,1,1,12,57,35.09
+28,5,Master,Data Science,16,4.54,3,0,0,97,26.18
+30,8,Master,Finance,12,2.55,3,1,0,78,24.68
+45,21,Bachelor,HR,14,4.87,5,1,14,9,34.43
+22,0,Bachelor,Finance,13,3.13,4,1,0,14,18.85
+29,6,Bachelor,Finance,2,3.02,0,1,5,41,18.98
+45,25,Bachelor,HR,3,2.19,5,0,12,92,29.43
+32,8,Master,Data Science,10,3.46,0,1,0,56,26.04
+38,14,Master,HR,9,2.33,2,1,4,86,27.6
+29,7,Master,Finance,8,2.75,1,1,8,16,22.06
+56,35,Master,Marketing,10,2.95,4,1,16,59,42.1
+56,33,Bachelor,HR,19,4.43,5,1,15,8,44.83
+54,31,Master,Data Science,3,4.63,1,0,7,35,36.39
+26,6,Bachelor,Data Science,5,2.91,4,0,16,72,20.47
+49,29,Master,Marketing,3,4.58,4,1,14,79,38.84
+28,5,Bachelor,Finance,16,4.57,4,0,0,35,26.56
+30,10,Bachelor,Marketing,17,4.29,1,1,11,47,28.52
+29,7,Bachelor,Engineering,15,2.44,5,1,4,50,24.16
+33,10,PhD,Finance,3,4.07,3,0,5,96,28.46
+55,35,Bachelor,HR,12,4.84,1,0,0,94,41.62
+54,31,High School,Marketing,9,4.05,4,1,0,69,37.05
+44,23,Bachelor,Data Science,12,2.99,5,0,9,73,30.31
+45,21,Master,HR,15,3.5,2,1,9,79,33.28
+58,35,Master,Finance,2,3.94,0,1,2,67,39.62
+56,32,Master,Engineering,18,3.53,4,1,16,21,40.25
+43,23,Bachelor,HR,12,2.36,2,1,18,76,29.43
+48,24,Master,HR,4,2.94,3,0,10,79,31.08
+56,33,Bachelor,Marketing,16,4.41,4,1,17,92,45.21
+22,1,Master,Finance,16,4.58,2,0,1,5,20.45
+56,35,Master,Data Science,1,2.41,4,0,8,25,37.82
+58,35,Bachelor,Engineering,2,4.86,1,1,16,74,35.7
+35,15,High School,Data Science,3,2.99,5,1,13,87,24.53
+24,2,High School,Data Science,17,3.99,2,0,3,92,20.38
+22,0,Bachelor,HR,1,4.26,5,1,16,2,17.35
+26,4,Bachelor,Data Science,6,4.44,1,1,16,51,19.5
+47,24,Master,Marketing,15,4.84,1,0,11,73,36.92
+35,14,Bachelor,Marketing,14,2.94,5,0,19,59,29.19
+48,28,Bachelor,Finance,15,4.58,2,1,17,62,36.53
+30,6,High School,Marketing,14,2.4,5,1,2,64,21.4
+36,16,High School,HR,5,4.12,5,1,10,51,28.81
+36,13,PhD,Finance,6,4.23,0,1,17,89,31.37
+47,27,Bachelor,Engineering,17,4.03,2,0,3,75,32.3
+34,10,Master,Finance,11,2.76,0,1,16,13,25.58
+53,30,Master,Finance,16,4.62,4,1,17,88,41.92
+53,33,Master,Marketing,12,2.51,5,1,4,71,40.35
+25,4,PhD,Finance,15,2.16,4,0,13,67,24.73
+51,28,Bachelor,Marketing,4,4.15,2,0,9,27,33.66
+58,35,PhD,HR,18,3.43,5,0,14,70,46.35
+44,23,High School,Engineering,3,4.55,4,1,0,9,26.87
+36,14,High School,Marketing,8,3.15,3,1,15,56,25.7
+50,26,Master,Finance,3,2.5,1,1,10,99,30.3
+57,35,PhD,Data Science,8,4.51,5,0,19,65,47.35
+34,14,Master,HR,18,3.65,1,0,5,89,28.82
+53,32,High School,Engineering,10,2.57,0,1,15,49,32.28
+28,6,Bachelor,Finance,17,4.16,4,1,1,13,23.84
+43,20,PhD,Finance,8,3.53,0,1,0,15,31.43
+49,29,Bachelor,Data Science,11,3.81,5,0,8,53,35.33
+23,3,Master,Marketing,5,3.38,1,1,11,42,20.45
+27,5,Master,Finance,13,4.49,1,0,16,41,26.67
+49,27,Bachelor,Data Science,5,4.49,4,0,14,80,31.58
+49,28,Bachelor,Finance,13,4.13,5,1,18,21,37.33
+41,17,Bachelor,Marketing,6,2.32,3,0,9,67,27.27
+51,29,Bachelor,Engineering,5,4.52,3,0,11,18,33.98
+32,10,PhD,Data Science,9,4.01,4,1,13,65,30.12
+49,26,Bachelor,Engineering,16,4.09,5,1,8,38,33.29
+46,26,PhD,Engineering,2,3.09,4,1,12,72,34.76
+54,30,High School,HR,1,4.64,5,1,2,18,35.38
+22,0,PhD,HR,8,4.18,0,0,13,15,20.3
+48,27,Bachelor,Data Science,19,2.34,4,0,9,53,31.81
+34,13,High School,HR,11,3.22,5,1,15,24,27.57
+24,2,High School,Data Science,12,4.66,3,1,6,17,20.68
+27,5,Master,Marketing,12,2.14,5,1,3,22,21.49
+29,8,Master,Marketing,7,4.88,5,0,19,84,30.75
+48,26,Master,Data Science,13,4.04,4,1,10,10,35.24
+30,6,High School,Marketing,8,3.89,0,0,15,38,21.44
+58,35,High School,HR,9,2.81,0,1,19,67,37.44
+54,34,Master,Data Science,7,2.75,0,1,3,24,36.33
+45,23,Bachelor,Data Science,15,4.83,0,1,16,62,33.76
+36,13,Bachelor,Finance,2,2.89,2,1,12,95,23.92
+53,29,PhD,HR,12,4.33,4,1,10,29,45.6
+53,30,PhD,Marketing,1,3.18,1,1,2,44,36.34
+45,22,PhD,HR,8,2.42,4,1,8,89,33.18
+33,13,Master,Marketing,5,2.03,2,0,5,60,27.17
+23,0,Bachelor,Finance,15,3.63,0,1,10,99,18.08
+24,0,Bachelor,HR,1,4.93,2,0,15,50,18.27
+58,34,Master,HR,1,3.11,3,1,18,97,38.85
+38,14,Master,Data Science,10,3.07,3,1,4,8,27.67
+23,0,High School,Finance,10,3.03,4,1,13,75,16.43
+23,3,Bachelor,HR,15,3.56,4,0,16,1,22.57
+49,27,High School,Engineering,17,3.32,1,0,2,4,29.68
+44,21,Master,HR,6,4.64,1,1,3,61,33.58
+58,34,PhD,Engineering,3,3.52,3,1,15,68,41.8
+53,31,Master,Finance,13,3.52,0,1,15,51,38.4
+54,32,Bachelor,HR,16,2.42,2,0,3,85,35.3
+22,0,PhD,Data Science,8,4.95,1,1,18,4,24.14
+40,20,Master,Data Science,15,2.75,5,1,16,58,33.44
+23,2,High School,Data Science,17,2.22,1,0,12,67,15.02
+47,26,Bachelor,Marketing,17,3.99,0,0,0,8,33.86
+53,31,Bachelor,Engineering,13,3.79,0,1,11,92,35.61
+27,4,High School,Marketing,17,3.25,4,1,3,21,22.01
+53,32,PhD,Engineering,6,3.27,2,1,10,26,38.84
+25,3,Bachelor,Marketing,17,4.36,0,1,4,9,22.61
+32,12,PhD,Marketing,16,2.59,1,1,1,79,30.5
+38,17,Bachelor,Finance,14,4.46,1,1,16,60,31.94
+59,35,High School,Finance,13,3.95,3,0,7,50,39.27
+45,23,Bachelor,Finance,6,3.26,0,0,5,9,25.66
+26,2,High School,Finance,3,3.37,5,1,8,5,14.85
+55,35,Bachelor,Engineering,14,2.77,4,1,12,61,39.39
+27,3,PhD,Engineering,14,4.26,2,1,10,4,23.51
+43,20,Master,Engineering,15,3.54,5,1,15,69,32.41
+32,8,Master,Data Science,8,2.96,4,0,15,62,24.32
+37,13,Bachelor,Data Science,15,3.79,1,1,1,55,28.14
+54,33,High School,Finance,13,4.99,5,0,9,58,41.0
+30,8,High School,Marketing,17,3.31,4,1,11,62,28.98
+27,7,Master,Data Science,3,4.76,1,1,7,88,23.71
+37,13,High School,Finance,6,3.04,1,1,10,58,23.34
+50,30,Bachelor,Data Science,5,2.16,1,1,9,50,30.73
+24,0,Master,HR,17,2.61,1,0,12,49,18.11
+41,18,Bachelor,Marketing,2,3.26,1,1,16,3,25.61
+57,33,Bachelor,Marketing,15,2.66,3,0,6,47,38.25
+40,19,Bachelor,Marketing,5,2.0,5,1,2,31,27.58
+47,25,PhD,Engineering,6,4.75,4,1,19,50,37.33
+24,1,Master,HR,6,4.53,3,1,12,51,22.23
+40,16,Bachelor,HR,18,4.23,3,1,18,98,33.49
+41,21,High School,Data Science,18,2.5,0,0,6,73,25.46
+53,30,PhD,Marketing,4,2.36,0,1,8,33,34.27
+28,5,Master,Engineering,17,2.2,0,0,18,35,20.65
+54,30,Bachelor,HR,14,4.17,2,1,12,69,39.25
+39,16,PhD,Data Science,14,4.79,0,0,7,42,32.5
+22,2,Bachelor,Data Science,13,3.29,4,0,17,15,19.82
+32,9,Master,HR,7,2.36,3,1,1,58,24.14
+49,29,Master,Finance,12,3.54,4,1,17,52,38.83
+46,22,Bachelor,Data Science,15,3.05,5,0,17,18,29.99
+44,22,PhD,Data Science,19,3.12,0,0,10,97,33.73
+52,29,Master,HR,11,3.86,2,1,0,88,38.46
+51,29,Master,Engineering,15,4.16,5,0,13,94,42.14
+56,35,Bachelor,Data Science,12,2.33,2,0,15,40,38.66
+28,5,High School,Marketing,3,2.11,5,1,10,80,19.55
+37,16,Bachelor,HR,17,4.98,3,0,0,46,30.79
+47,25,Master,Data Science,3,2.7,4,1,6,93,30.9
+23,0,Bachelor,HR,19,2.16,1,1,15,53,20.05
+22,0,Master,HR,4,2.57,4,1,13,54,17.69
+33,10,Master,Marketing,3,2.12,0,1,14,94,24.2
+26,2,High School,Finance,16,3.18,1,1,13,18,17.72
+58,35,Master,Data Science,12,4.41,2,0,10,61,43.64
+53,32,High School,Data Science,8,3.02,3,0,15,98,34.25
+30,9,PhD,Data Science,17,3.33,3,1,18,92,31.18
+56,35,Bachelor,Finance,7,4.03,2,0,16,58,39.72
+40,17,Bachelor,Engineering,11,3.53,0,1,5,64,28.14
+37,15,Bachelor,Finance,18,4.58,2,1,10,67,30.78
+24,4,Bachelor,Data Science,1,4.6,5,0,16,27,22.13
+41,19,Master,Data Science,3,2.03,0,1,8,17,23.33
+45,22,Master,Marketing,4,4.33,1,1,17,25,31.36
+54,33,Master,Finance,13,3.38,2,1,16,18,39.55
+45,21,High School,Engineering,6,4.97,0,1,11,54,26.06
+32,11,Bachelor,HR,14,3.45,1,1,4,56,27.26
+29,9,High School,Engineering,5,4.96,2,1,10,5,21.76
+57,33,Master,HR,16,4.26,3,1,3,0,42.18
+59,35,PhD,HR,15,2.75,2,1,3,7,43.71
+41,18,Bachelor,Data Science,15,3.62,4,0,2,96,30.55
+56,32,Bachelor,HR,4,4.98,2,0,16,50,37.4
+46,26,Master,Finance,8,4.57,4,1,6,84,37.66
+56,33,Master,Finance,16,2.29,1,0,3,87,39.96
+46,25,Master,Engineering,16,4.12,2,0,12,24,33.09
+50,27,PhD,Data Science,4,3.04,1,1,11,46,34.19
+39,17,Bachelor,Marketing,13,2.02,1,0,0,54,24.12
+39,16,Bachelor,Data Science,13,3.21,0,1,18,63,27.68
+23,0,PhD,Finance,2,2.7,1,1,19,82,19.0
+56,34,Master,Finance,3,4.46,1,1,17,92,42.82
+37,17,Bachelor,Finance,8,3.01,2,1,10,9,26.59
+57,35,Master,Engineering,15,4.48,2,0,19,55,42.16
+54,31,Master,Data Science,11,2.0,3,1,2,11,35.0
+25,3,Master,HR,9,2.92,0,1,16,32,22.78
+54,32,Master,Data Science,7,2.72,1,1,11,70,34.22
+35,14,Bachelor,Data Science,13,2.7,0,1,9,16,25.46
+42,22,Master,Engineering,2,2.2,4,0,7,60,28.25
+41,17,Master,Data Science,8,2.56,1,1,14,9,24.4
+29,9,Master,Marketing,7,3.67,0,0,4,30,24.42
+28,8,Master,Engineering,12,2.87,3,1,3,59,25.47
+24,3,Master,Engineering,19,3.25,3,1,19,69,23.22
+38,14,High School,Data Science,7,3.13,1,0,18,16,23.61
+54,33,Master,HR,10,4.63,4,0,3,49,43.99
+33,9,Master,Finance,16,4.72,3,0,14,36,28.48
+43,20,Master,Data Science,3,3.48,3,1,16,81,28.94
+43,19,Master,HR,10,2.99,4,1,11,61,32.08
+51,30,Master,Finance,6,2.32,0,0,2,89,34.22
+59,35,Bachelor,Marketing,18,4.86,3,1,9,79,49.23
+59,35,Master,HR,18,2.18,2,0,14,71,40.6
+29,5,High School,Data Science,5,2.89,5,1,9,87,21.49
+48,26,Bachelor,Data Science,7,2.89,5,0,17,76,30.36
+48,28,Master,Engineering,2,2.96,3,1,0,28,31.72
+55,32,Master,Data Science,11,2.49,0,1,2,31,36.81
+42,21,Bachelor,Marketing,13,4.35,0,1,11,87,29.26
+51,28,High School,Data Science,5,2.37,1,1,0,79,29.32
+54,34,Master,Data Science,6,3.9,2,1,2,10,40.96
+49,25,High School,HR,14,2.37,0,1,2,95,30.35
+54,30,Bachelor,Finance,12,2.21,4,1,4,5,36.04
+26,6,High School,Engineering,4,4.73,2,1,18,34,22.64
+40,16,Bachelor,Data Science,6,2.57,5,1,0,32,24.31
+25,1,Bachelor,Data Science,10,4.46,2,0,3,17,20.23
+56,32,Bachelor,HR,18,3.63,4,1,3,36,39.46
+38,17,Bachelor,Engineering,15,2.23,3,0,16,12,25.1
+49,28,PhD,Data Science,8,4.87,4,1,13,73,41.93
+51,29,Master,Finance,9,2.74,4,1,17,89,37.6
+50,27,Master,Data Science,5,4.58,3,1,0,80,37.64
+27,7,High School,Finance,10,2.51,3,0,15,63,23.43
+56,35,Bachelor,Finance,6,4.56,3,0,2,0,38.23
+58,35,Master,Data Science,16,2.04,3,1,8,62,40.36
+45,23,High School,Marketing,3,3.54,3,1,3,88,29.16
+50,29,Bachelor,Finance,10,4.31,4,0,4,33,35.36
+52,30,Master,Engineering,11,4.8,1,1,10,9,38.17
+56,35,Master,Finance,11,4.73,1,1,8,83,45.83
+54,31,High School,HR,17,4.46,0,1,2,6,37.47
+42,18,Bachelor,HR,4,4.66,1,0,5,55,28.63
+53,32,Master,Engineering,4,2.6,5,1,10,79,37.22
+44,23,High School,Marketing,17,2.85,1,0,8,36,28.16
+54,32,Master,Data Science,9,2.87,4,1,14,28,39.78
+24,3,Master,Engineering,19,3.13,3,0,2,11,23.25
+39,19,PhD,Engineering,5,3.18,3,0,0,16,29.14
+46,26,Bachelor,Engineering,6,3.63,4,0,19,47,29.82
+52,30,Master,HR,3,2.48,5,0,18,83,35.58
+24,4,Master,Engineering,1,4.07,1,1,13,25,20.41
+45,22,Bachelor,Engineering,16,2.5,4,0,16,82,28.28
+53,31,High School,Marketing,11,2.93,0,0,13,11,32.95
+43,20,Master,Data Science,13,3.51,3,1,16,20,31.2
+44,20,Bachelor,Engineering,10,4.39,2,0,13,41,30.35
+23,0,Bachelor,Engineering,3,4.22,0,0,11,60,14.86
+48,24,High School,Engineering,9,3.94,5,1,15,57,31.96
+23,0,Master,Data Science,12,2.47,0,1,0,53,15.74
+47,24,Master,HR,14,3.64,4,1,12,33,34.14
+38,16,Master,Engineering,1,2.26,1,1,5,6,21.65
+54,34,Bachelor,Engineering,18,3.13,3,1,16,34,39.77
+30,10,Bachelor,HR,17,3.24,5,0,11,14,23.89
+50,26,Master,HR,9,2.12,5,1,18,64,34.59
+47,23,Bachelor,Data Science,9,2.82,2,1,5,89,31.16
+56,34,Bachelor,Finance,10,4.87,0,1,6,98,42.92
+46,25,Master,Data Science,19,4.86,2,1,0,24,36.43
+45,22,PhD,Finance,15,3.06,1,0,0,58,31.01
+34,10,Master,Finance,5,2.13,1,1,4,78,21.44
+28,8,Master,Data Science,15,2.54,2,1,5,85,23.64
+57,35,PhD,Marketing,2,3.18,3,1,15,5,41.58
+41,18,Bachelor,Engineering,13,4.84,1,0,15,51,32.35
+22,0,Master,HR,16,2.42,2,0,13,78,16.51
+29,6,PhD,Engineering,15,4.29,0,0,0,87,27.93
+37,14,Bachelor,HR,10,2.33,2,1,12,20,24.25
+35,11,Master,Finance,14,4.94,2,0,19,70,31.29
+33,11,Master,HR,10,3.14,4,0,9,92,27.35
+44,22,Master,Engineering,14,4.33,1,1,9,95,32.12
+36,16,Master,Finance,9,3.03,3,0,8,31,27.73
+49,29,PhD,Finance,14,3.88,3,1,12,52,40.99
+55,31,Master,HR,3,2.58,4,0,2,58,36.06
+23,0,High School,Finance,16,2.44,5,1,17,68,15.68
+53,32,PhD,Finance,2,4.81,3,1,19,61,43.76
+44,24,Bachelor,Data Science,10,4.75,2,1,1,3,32.86
+43,20,Bachelor,Data Science,3,4.66,4,1,16,85,31.4
+46,24,Bachelor,Finance,11,3.88,0,0,18,17,29.74
+43,19,Bachelor,Engineering,11,4.42,1,0,12,98,30.01
+43,21,Bachelor,Marketing,13,2.21,1,0,12,80,28.2
+27,5,PhD,HR,7,3.0,1,1,0,55,25.34
+36,15,Master,Marketing,17,2.94,2,1,1,23,29.24
+58,35,Master,Data Science,2,3.91,0,1,0,65,39.21
+54,30,High School,Marketing,12,3.07,4,1,4,12,32.31
+29,7,PhD,HR,10,2.45,4,0,2,61,26.32
+26,2,PhD,HR,18,3.79,1,1,6,53,24.88
+25,2,Master,Finance,11,4.44,0,1,12,14,23.12
+27,6,High School,Data Science,16,3.15,0,0,17,68,21.59
+53,30,High School,HR,17,2.4,0,1,6,2,31.31
+51,27,Bachelor,Finance,19,2.59,3,0,0,36,32.32
+56,32,High School,Engineering,18,2.71,3,1,4,36,35.05
+37,17,Bachelor,Data Science,3,2.9,1,1,16,2,23.98
+34,12,PhD,Marketing,16,3.93,0,0,7,62,32.58
+51,29,Bachelor,Marketing,6,3.8,5,1,14,34,37.43
+40,17,High School,Marketing,12,4.09,0,0,19,51,27.26
+38,17,Bachelor,Finance,11,3.09,4,1,3,86,30.61
+40,18,High School,Data Science,15,4.47,4,1,1,27,29.86
+49,29,High School,Engineering,15,2.61,1,0,4,93,32.63
+47,24,Bachelor,Engineering,16,3.41,5,1,0,17,31.68
+58,35,Bachelor,Engineering,10,4.4,0,1,4,35,40.11
+47,27,Master,Data Science,12,2.54,5,0,5,32,32.94
+44,23,PhD,Engineering,13,2.33,1,0,1,63,29.79
+30,10,Bachelor,Data Science,4,4.65,4,1,0,25,26.86
+33,12,Bachelor,Marketing,7,3.03,4,1,3,47,26.59
+22,2,Master,Data Science,2,4.05,3,0,6,39,19.19
+22,2,Bachelor,Marketing,15,2.08,1,0,0,16,15.97
+55,31,Bachelor,Finance,8,4.07,1,0,0,39,37.32
+53,30,PhD,Data Science,7,2.95,0,1,7,6,35.51
+46,26,High School,Data Science,15,2.17,0,0,19,56,26.42
+22,2,Master,Engineering,14,3.83,3,0,15,7,21.4
+37,15,Master,Data Science,8,2.72,2,1,12,55,26.83
+26,3,Bachelor,HR,12,3.16,5,1,17,30,22.05
+43,21,Bachelor,Engineering,13,2.24,2,0,19,58,27.45
+50,27,Master,Data Science,11,2.44,2,1,9,57,32.75
+24,2,High School,Data Science,17,2.89,1,1,11,11,16.55
+33,13,Bachelor,Marketing,17,2.27,5,0,0,47,28.55
+47,27,Master,HR,4,4.73,1,0,9,30,32.8
+37,13,Master,HR,8,2.02,5,1,8,82,27.74
+58,35,High School,Engineering,5,3.45,4,0,2,62,37.05
+43,22,PhD,HR,16,2.37,1,1,18,73,34.56
+50,26,Bachelor,HR,4,2.92,1,1,8,38,30.9
+35,13,Master,Finance,15,4.78,1,0,9,75,33.94
+49,27,Master,Marketing,12,2.49,3,0,18,19,36.12
+26,2,Master,Data Science,5,4.9,1,1,15,47,21.35
+51,31,Bachelor,Marketing,16,2.62,0,1,17,70,35.39
+26,4,PhD,Marketing,14,4.22,0,1,13,53,28.39
+33,13,High School,Engineering,10,3.64,5,1,2,77,24.0
+37,13,Master,Finance,7,4.65,4,0,1,74,27.95
+47,27,Bachelor,Marketing,13,3.66,3,1,0,70,35.91
+47,24,Bachelor,Engineering,5,3.6,5,1,17,28,30.9
+42,21,Bachelor,Finance,3,2.59,0,1,8,73,27.64
+57,35,PhD,Marketing,15,2.5,3,0,12,92,45.54
+54,33,PhD,Finance,4,4.75,3,0,1,72,45.0
+51,31,Bachelor,Engineering,15,2.98,4,1,6,99,37.81
+58,35,High School,Finance,14,3.12,3,1,15,47,37.8
+44,24,Master,Data Science,19,4.28,1,0,18,73,36.47
+31,8,Bachelor,Finance,13,3.02,3,0,14,82,26.34
+26,2,High School,Engineering,10,4.86,4,1,10,55,21.37
+57,35,Master,Finance,5,4.21,5,1,0,94,45.51
+55,32,Master,Finance,6,3.79,4,0,6,16,37.99
+52,29,PhD,HR,4,4.64,4,0,19,8,40.08
+31,9,Bachelor,Finance,2,2.15,0,0,7,96,19.44
+40,20,Bachelor,Finance,16,2.77,1,1,9,33,31.09
+53,30,Master,HR,18,3.4,0,1,4,44,39.36
+22,1,Master,Engineering,5,2.68,5,1,8,87,17.72
+26,3,Master,Finance,4,4.23,2,1,0,8,23.48
+25,5,Master,Engineering,13,4.76,5,0,1,6,24.69
+37,17,Bachelor,Marketing,19,3.27,1,1,18,15,29.77
+45,24,Master,Engineering,2,3.03,3,1,13,18,29.31
+37,14,Bachelor,Data Science,13,4.88,4,0,19,5,30.31
+23,3,High School,HR,11,3.33,2,0,9,10,18.42
+49,27,Master,Finance,4,3.47,1,1,8,75,32.14
+53,29,Bachelor,Engineering,15,3.05,0,1,9,60,34.1
+48,24,High School,Finance,4,4.73,4,0,5,41,31.2
+41,17,PhD,Finance,9,3.71,5,1,16,12,33.86
+45,22,Bachelor,HR,7,4.29,0,1,5,11,27.98
+33,12,Master,Data Science,19,4.44,1,0,3,84,29.8
+56,35,Bachelor,Finance,19,3.03,1,0,19,73,39.64
+54,32,Master,Finance,6,3.3,5,0,2,19,37.87
+54,32,High School,HR,6,4.55,2,1,18,49,35.98
+58,35,Bachelor,Finance,15,3.09,5,0,17,35,39.62
+33,9,PhD,Finance,15,4.38,3,0,3,91,30.78
+24,1,Master,Data Science,9,4.82,0,1,7,87,20.53
+22,1,Bachelor,Engineering,4,3.87,2,1,16,68,17.95
+54,33,Bachelor,Engineering,18,4.22,4,0,4,36,37.46
+31,11,PhD,Engineering,18,4.42,3,1,12,11,32.43
+50,30,Master,Data Science,5,4.54,2,1,0,98,37.96
+34,13,Master,Finance,11,3.19,0,1,12,39,26.59
+33,12,Master,Data Science,5,2.15,1,1,3,53,22.9
+52,31,High School,Marketing,4,3.21,4,0,13,1,32.94
+23,0,High School,Engineering,12,4.02,5,1,2,49,18.38
+56,35,Master,HR,2,3.35,0,1,4,40,40.29
+44,22,Bachelor,Finance,13,4.25,3,1,6,44,33.44
+38,14,Bachelor,Data Science,10,3.07,3,1,0,8,27.59
+47,26,PhD,Engineering,9,3.9,1,1,11,61,36.35
+29,5,Master,Finance,10,2.56,1,0,10,85,22.28
+50,27,Master,Data Science,7,4.25,4,1,7,46,35.38
+47,23,Master,Marketing,4,3.64,5,1,5,4,31.61
+31,8,Master,Finance,19,2.61,4,1,1,75,28.06
+47,25,High School,Marketing,10,2.88,1,0,18,0,26.87
+55,32,Bachelor,Data Science,3,4.25,1,1,19,43,36.92
+28,5,Bachelor,HR,19,3.45,3,1,19,21,24.99
+25,5,Bachelor,Finance,2,2.65,1,0,13,37,16.54
+32,11,Master,HR,10,4.9,2,1,0,18,28.81
+50,29,Bachelor,Data Science,2,4.15,0,1,9,79,36.24
+57,35,Bachelor,HR,2,4.87,1,1,15,30,39.05
+46,24,Bachelor,Finance,17,3.28,4,1,3,66,32.87
+42,21,High School,HR,16,3.43,5,1,10,86,32.74
+57,35,Bachelor,Data Science,16,4.69,5,0,15,41,44.48
+31,10,Bachelor,Marketing,14,3.58,5,1,19,81,29.31
+58,35,Bachelor,Engineering,7,4.12,2,1,0,25,37.31
+30,8,High School,HR,11,2.76,4,1,15,12,22.56
+45,21,Bachelor,Marketing,1,3.34,2,1,18,57,24.89
+56,34,Master,HR,11,2.37,1,1,8,17,38.93
+56,34,Bachelor,Finance,4,2.62,0,0,8,66,34.92
+57,34,Bachelor,Data Science,7,2.0,5,1,8,86,38.66
+39,16,Master,Marketing,15,2.12,4,0,16,2,27.14
+53,30,Bachelor,Data Science,18,4.93,5,0,11,54,40.02
+45,22,PhD,Finance,12,2.73,2,0,12,88,33.23
+44,24,Master,HR,17,3.99,3,1,7,90,37.14
+53,32,Bachelor,HR,1,4.52,1,0,15,57,35.03
+58,34,Master,Data Science,11,3.65,0,0,17,62,39.4
+33,11,Bachelor,HR,1,2.46,1,0,0,90,22.75
+34,14,Master,HR,15,4.18,3,0,0,51,31.26
+44,20,Bachelor,Engineering,10,3.8,0,1,11,88,26.7
+46,26,PhD,Marketing,7,4.19,3,1,5,23,38.44
+56,35,Bachelor,Engineering,2,4.31,1,0,8,71,35.79
+51,29,Master,Data Science,10,4.93,2,1,4,8,37.66
+38,17,Master,Engineering,4,3.72,1,1,15,36,28.0
+41,18,High School,Engineering,12,3.02,1,1,17,93,27.39
+46,25,Bachelor,Marketing,19,3.95,1,0,16,82,32.44
+43,21,Master,Data Science,11,2.21,4,1,17,52,30.81
+34,12,Master,Data Science,8,4.69,3,0,0,79,30.41
+40,18,Bachelor,Data Science,18,2.36,3,0,18,23,26.27
+57,33,Master,Finance,11,2.98,5,0,7,20,39.33
+33,12,PhD,Finance,11,4.45,3,1,2,99,29.49
+40,19,PhD,Data Science,13,3.79,5,0,4,39,29.61
+33,13,High School,Data Science,3,3.18,4,0,7,61,23.46
+30,10,Master,Marketing,12,3.42,2,0,18,69,28.02
+28,8,Bachelor,Data Science,3,4.56,5,1,17,68,25.8
+49,27,PhD,Finance,10,3.02,1,1,17,13,35.49
+35,14,Bachelor,Data Science,17,4.61,2,0,0,41,28.4
+52,30,High School,HR,2,2.26,4,1,14,49,30.51
+40,16,Master,Data Science,17,4.33,3,1,17,60,33.57
+37,17,Bachelor,Finance,16,4.54,5,1,6,3,29.66
+26,4,PhD,Data Science,2,2.55,1,0,15,71,21.73
+56,34,PhD,Marketing,6,3.29,0,1,15,87,42.54
+33,9,Master,Data Science,10,2.5,0,0,14,74,22.48
+46,23,High School,HR,10,4.12,2,1,5,16,28.17
+42,21,Master,Data Science,8,3.61,3,0,8,84,30.82
+57,34,High School,Data Science,1,3.91,0,0,6,56,33.12
+44,24,High School,HR,13,2.59,2,0,13,89,27.12
+37,15,Master,Data Science,9,2.64,4,1,10,47,26.99
+35,11,Bachelor,Marketing,10,2.12,2,0,15,43,22.96
+52,28,Bachelor,Marketing,15,2.97,2,1,5,44,36.31
+26,5,PhD,Marketing,5,3.68,2,0,15,90,26.62
+56,33,Bachelor,Engineering,16,4.57,1,1,19,79,43.42
+44,23,Bachelor,HR,13,4.0,2,1,15,89,32.85
+50,28,PhD,Data Science,18,3.31,5,1,11,32,39.02
+32,11,High School,Marketing,11,4.86,2,1,16,30,28.61
+39,15,Master,Finance,9,4.16,1,1,4,46,30.27
+33,9,PhD,HR,16,4.79,1,0,12,5,31.93
+30,10,PhD,Finance,2,3.58,4,1,7,71,27.13
+31,11,Master,Finance,2,2.78,3,0,4,70,22.97
+38,16,Bachelor,Engineering,12,2.16,0,1,11,33,23.31
+59,35,Bachelor,HR,8,4.18,0,1,8,52,42.52
+28,7,Master,Data Science,9,2.36,2,0,2,13,19.82
+34,12,PhD,Finance,12,2.91,4,0,2,15,27.67
+30,10,Master,HR,9,3.6,2,1,0,42,28.09
+48,27,Bachelor,Finance,10,3.69,0,1,17,72,34.45
+23,3,High School,Data Science,2,3.8,1,1,11,73,17.71
+26,5,High School,Finance,16,2.5,3,1,8,80,21.15
+50,27,Master,Data Science,7,3.14,4,1,8,11,31.85
+58,35,Bachelor,Finance,2,3.85,1,1,17,69,38.17
+59,35,PhD,Engineering,1,4.91,3,0,17,18,43.65
+40,16,Master,Data Science,19,4.18,4,0,6,40,32.75
+29,5,Bachelor,Data Science,4,4.77,4,1,3,52,21.94
+22,1,Master,HR,2,4.29,0,1,12,28,20.67
+43,22,Bachelor,Engineering,14,3.78,1,1,16,69,32.25
+38,17,Master,Data Science,2,2.58,4,1,1,58,26.03
+28,4,Master,Marketing,15,4.0,5,0,13,88,28.37
+46,22,Master,Engineering,12,3.87,4,1,2,63,33.84
+25,4,Master,Finance,5,3.81,3,0,4,23,20.81
+57,35,Bachelor,HR,7,3.47,0,0,13,88,42.07
+27,7,High School,Marketing,10,3.59,2,1,2,15,23.66
+52,29,Master,HR,14,3.0,0,0,6,51,36.02
+40,18,High School,HR,14,3.56,2,1,17,79,28.93
+48,28,Bachelor,HR,5,2.59,1,1,12,5,31.11
+31,7,High School,Data Science,18,4.42,1,1,9,36,22.49
+47,27,Master,HR,14,2.56,4,0,12,84,38.01
+40,17,Bachelor,Engineering,2,2.25,5,0,15,3,23.67
+24,1,Master,Marketing,12,3.31,1,0,8,97,23.41
+34,12,PhD,Data Science,6,3.97,4,1,1,91,30.72
+49,29,High School,Finance,4,3.31,0,1,4,37,29.47
+41,17,High School,Data Science,13,2.83,1,1,16,40,24.07
+49,25,Bachelor,HR,4,3.67,0,0,3,91,30.95
+29,8,PhD,Engineering,14,3.04,0,1,16,80,26.62
+22,0,Bachelor,Marketing,16,4.8,5,0,8,13,22.47
+24,2,Bachelor,HR,4,4.77,1,0,19,70,21.88
+34,12,High School,Data Science,1,3.51,0,1,1,85,20.12
+49,25,Master,HR,13,2.98,5,1,17,50,36.59
+46,22,Bachelor,HR,4,4.21,5,0,10,64,31.04
+54,33,Master,Finance,18,2.11,1,0,12,92,37.43
+59,35,PhD,Data Science,6,3.42,5,1,7,51,42.48
+27,6,Bachelor,Data Science,3,3.01,1,0,0,94,20.72
+53,32,Master,Data Science,13,4.76,1,0,16,29,39.67
+42,18,High School,Data Science,16,2.04,2,1,11,56,26.01
+37,14,PhD,Marketing,5,3.66,0,1,3,78,30.37
+42,19,Master,Engineering,4,4.22,3,1,12,81,30.33
+32,11,PhD,HR,8,3.46,1,1,8,98,33.09
+58,34,High School,Data Science,19,2.26,0,1,6,29,33.75
+57,34,Bachelor,Finance,14,4.92,5,0,4,97,43.28
+56,32,Bachelor,HR,7,3.55,4,1,4,41,37.8
+40,16,Bachelor,Marketing,14,3.84,1,1,16,10,32.26
+41,17,Bachelor,Data Science,6,2.71,5,0,8,26,24.95
+39,19,Bachelor,Finance,12,3.45,5,1,5,23,29.8
+35,11,High School,Data Science,16,3.29,5,0,18,98,25.97
+36,16,Bachelor,Engineering,17,2.22,5,0,15,38,26.77
+52,31,Master,Data Science,13,2.32,5,0,1,71,36.6
+22,0,Bachelor,Finance,14,4.51,1,1,9,17,20.84
+24,1,High School,Data Science,7,2.72,3,1,15,76,16.81
+37,14,Bachelor,HR,14,2.58,2,1,4,44,26.13
+44,21,High School,Data Science,15,3.51,5,1,14,87,29.09
+32,9,PhD,Finance,12,4.31,5,0,12,86,32.07
+33,10,High School,Data Science,17,2.19,2,0,12,11,22.64
+31,8,Master,HR,9,3.73,1,0,12,48,24.93
+53,32,PhD,Marketing,15,2.36,0,0,14,93,41.09
+37,13,Master,Finance,12,2.11,4,0,13,30,24.91
+29,7,Master,HR,2,2.16,4,1,7,91,21.84
+59,35,Master,Data Science,5,4.5,0,1,10,21,42.47
+33,11,PhD,Finance,13,2.35,1,1,17,43,28.89
+45,23,Master,Data Science,8,2.14,4,0,3,91,29.88
+49,25,Master,Data Science,14,3.31,2,1,9,63,31.02
+29,5,Master,HR,15,4.53,0,0,0,76,25.67
+49,25,Master,Marketing,11,2.79,3,0,4,24,33.03
+57,34,Master,Engineering,1,3.27,1,1,12,50,35.0
+47,26,Bachelor,Finance,3,2.12,0,1,0,6,25.62
+29,6,Bachelor,Finance,17,3.35,4,0,7,5,24.27
+49,28,High School,Engineering,19,3.73,1,1,2,23,30.41
+49,28,High School,Data Science,14,3.71,2,0,2,18,29.19
+58,35,Bachelor,Data Science,8,3.0,1,1,6,82,36.59
+57,35,High School,Engineering,13,2.95,1,1,3,99,37.69
+48,27,Master,Data Science,3,2.32,2,1,2,8,28.71
+38,17,Bachelor,Data Science,5,3.1,5,0,14,35,26.93
+30,7,Master,Data Science,9,2.3,2,0,7,39,21.83
+54,31,High School,HR,6,4.3,1,1,2,92,38.34
+41,19,Bachelor,Finance,2,4.9,2,1,6,23,27.12
+34,10,Master,Marketing,13,4.91,5,0,17,47,33.02
+49,28,Master,Data Science,5,4.6,0,1,10,62,34.86
+50,27,High School,HR,8,3.8,2,1,10,68,33.18
+34,12,PhD,Marketing,1,4.1,2,1,16,52,30.0
+56,33,PhD,HR,12,2.86,1,1,5,53,40.09
+27,6,Bachelor,Data Science,11,3.89,0,1,7,41,22.4
+39,18,Bachelor,HR,7,3.37,3,1,0,44,27.8
+26,6,PhD,Data Science,15,3.45,3,1,9,89,27.71
+46,22,Master,Data Science,11,4.27,4,0,18,13,33.59
+23,3,Master,Finance,16,2.85,2,0,2,28,19.87
+31,9,Master,Finance,3,2.95,2,0,3,5,24.49
+51,28,Bachelor,Engineering,14,4.77,0,1,10,6,35.98
+26,4,Bachelor,Marketing,3,2.17,5,0,14,36,19.25
+54,33,Bachelor,HR,1,3.46,3,1,0,52,39.58
+22,2,Master,Finance,15,4.74,4,0,8,17,24.26
+39,19,Master,Marketing,1,3.83,0,0,10,86,29.3
+53,33,Master,Data Science,17,3.64,2,1,18,37,41.93
+32,10,Bachelor,Marketing,2,2.75,3,0,12,58,23.82
+42,21,Bachelor,Finance,6,3.03,4,0,15,0,28.75
+47,24,Bachelor,Engineering,8,4.56,1,0,3,67,31.26
+46,23,Master,HR,16,3.68,3,1,0,43,35.46
+43,21,Master,HR,19,3.54,4,1,19,46,34.25
+48,28,High School,HR,1,2.3,0,1,12,34,26.68
+34,10,PhD,Marketing,3,2.05,1,1,0,86,27.59
+54,32,High School,HR,3,4.89,4,1,4,90,39.31
+55,33,PhD,Finance,5,3.13,4,0,4,59,40.36
+56,35,High School,Marketing,12,3.81,2,0,13,89,39.69
+22,0,Master,HR,12,2.24,5,1,13,51,21.27
+42,20,High School,Data Science,13,4.05,3,0,7,7,26.18
+27,5,PhD,Marketing,9,4.8,2,0,3,79,27.66
+49,29,Bachelor,Data Science,7,3.73,1,1,6,40,33.52
+38,18,High School,HR,4,2.38,5,1,19,2,21.35
+26,2,Bachelor,Marketing,19,3.75,4,0,18,95,25.37
+52,31,Bachelor,HR,19,4.3,2,0,14,68,40.84
+26,2,Bachelor,HR,6,3.22,5,1,3,83,20.13
+59,35,PhD,HR,13,4.64,3,1,18,13,47.01
+24,1,Bachelor,Finance,11,3.95,1,1,8,95,20.49
+44,24,Master,Marketing,13,4.7,0,1,12,25,34.87
+58,35,Master,Data Science,13,3.87,2,1,13,69,43.64
+58,35,Master,Engineering,15,2.39,1,1,13,57,39.68
+31,10,High School,Data Science,13,2.93,0,1,9,99,23.16
+31,10,Bachelor,Finance,11,2.61,2,0,15,39,23.26
+40,19,Master,Finance,19,4.73,1,1,4,50,33.72
+38,17,PhD,HR,8,4.28,1,0,5,4,31.21
+42,21,Bachelor,Data Science,8,4.03,5,0,1,76,31.02
+35,12,Bachelor,Finance,10,2.9,2,1,12,31,24.44
+30,6,Bachelor,Engineering,16,2.55,1,1,12,79,22.53
+22,0,PhD,Data Science,19,4.27,4,1,18,0,25.52
+34,10,Bachelor,Finance,11,3.42,2,0,17,76,24.2
+25,4,Bachelor,Engineering,13,2.68,1,1,18,53,21.1
+22,0,PhD,Data Science,9,3.85,5,1,0,10,24.16
+53,33,High School,Data Science,19,2.12,0,1,7,52,34.59
+55,32,High School,Engineering,16,2.98,0,0,15,7,32.69
+49,28,Master,Finance,7,3.41,4,0,1,24,33.8
+52,29,PhD,Engineering,19,2.44,2,1,7,39,37.85
+29,6,Bachelor,HR,12,4.95,5,0,5,31,27.52
+47,26,Bachelor,HR,15,2.63,1,1,15,87,31.17
+55,32,Bachelor,Finance,14,2.39,1,1,10,27,34.58
+24,2,Bachelor,Marketing,11,2.61,0,0,16,77,19.48
+33,11,Master,Finance,10,4.31,5,0,18,2,29.13
+22,0,Bachelor,Finance,11,3.28,4,0,10,99,17.63
+26,6,Bachelor,Marketing,6,3.7,0,1,7,90,25.31
+51,30,Bachelor,Data Science,2,2.06,0,0,3,83,28.31
+51,29,Master,Marketing,11,2.1,4,1,10,78,36.9
+38,18,Master,Engineering,19,3.34,2,1,7,61,30.57
+44,21,PhD,Data Science,6,4.45,1,1,8,26,31.3
+36,16,High School,Engineering,14,4.66,2,0,1,44,26.99
+58,34,Master,HR,6,2.26,5,0,15,91,40.46
+42,20,Master,Finance,17,3.62,3,1,5,24,31.65
+35,12,Bachelor,HR,10,4.74,3,1,18,60,30.06
+23,2,Bachelor,Data Science,1,3.16,3,1,7,43,17.01
+32,9,Bachelor,Data Science,3,4.49,4,0,13,96,23.42
+59,35,Bachelor,Engineering,8,2.4,0,0,15,45,34.34
+55,32,Bachelor,Data Science,8,4.81,2,1,11,13,38.88
+59,35,High School,Marketing,15,4.25,1,0,4,7,38.97
+55,35,Bachelor,Data Science,7,4.82,3,1,18,47,41.8
+39,19,Master,HR,11,4.03,2,1,17,13,32.97
+51,27,Bachelor,HR,7,3.09,3,0,8,64,31.34
+36,15,Master,Data Science,4,4.81,3,1,1,79,32.79
+48,28,Master,Finance,12,2.83,1,1,19,81,33.67
+55,31,PhD,Engineering,6,3.0,5,0,11,6,34.35
+59,35,Master,Engineering,14,4.1,5,1,1,78,45.42
+54,31,High School,Engineering,12,4.3,5,0,9,87,35.85
+45,21,Master,Finance,11,4.79,4,0,0,48,32.47
+36,14,High School,Data Science,19,2.61,0,0,3,54,24.37
+51,27,Bachelor,Finance,5,4.39,4,1,11,12,33.31
+38,14,PhD,Finance,14,4.22,2,1,8,72,34.45
+26,5,Bachelor,Data Science,16,2.19,4,1,3,55,20.75
+50,27,Bachelor,HR,13,3.16,2,0,8,55,33.43
+25,3,Master,HR,4,2.85,2,1,5,14,18.88
+31,11,PhD,Engineering,11,2.91,0,0,0,56,24.71
+38,18,Master,Data Science,17,4.95,1,1,9,57,35.86
+31,7,Bachelor,HR,7,3.93,0,1,13,34,24.92
+38,17,Master,Data Science,14,4.15,5,0,17,87,32.1
+41,20,Bachelor,HR,11,4.93,5,0,5,96,33.61
+45,25,Master,Data Science,9,3.13,4,1,17,15,34.41
+26,4,PhD,Data Science,13,4.41,2,0,19,7,24.88
+55,32,Master,Engineering,18,3.3,3,1,15,92,40.05
+27,5,PhD,Data Science,11,4.61,3,0,14,86,29.14
+23,0,High School,Finance,15,2.54,2,0,15,44,17.82
+34,14,Master,Data Science,19,4.84,0,1,7,94,32.99
+32,9,Master,HR,1,2.66,1,1,12,39,23.9
+44,23,High School,Marketing,4,2.98,0,1,10,53,25.3
+37,13,PhD,Finance,14,4.27,2,0,6,13,31.48
+52,28,Bachelor,HR,14,3.18,2,0,16,58,34.08
+32,12,Master,Data Science,3,3.82,1,0,17,93,28.77
+37,16,Master,Data Science,17,3.33,4,1,18,52,33.34
+29,7,Master,HR,3,4.23,4,1,12,26,28.96
+25,4,High School,Data Science,16,2.68,1,1,14,46,18.06
+25,1,Master,Finance,14,2.18,4,1,0,79,20.38
+46,22,Master,Engineering,13,2.9,3,0,15,5,29.76
+24,3,PhD,Finance,15,3.42,4,1,4,54,25.18
+53,32,Bachelor,Marketing,14,2.5,4,1,2,96,39.14
+24,0,Bachelor,Marketing,19,3.06,4,1,9,43,21.96
+48,26,Master,HR,6,3.2,3,0,18,17,31.98
+50,30,Bachelor,HR,10,2.17,4,0,4,15,32.13
+53,33,Master,Finance,15,3.75,5,1,6,11,41.14
+40,19,Master,Finance,6,4.65,3,0,13,19,29.4
+42,22,PhD,Engineering,10,2.46,1,0,2,44,30.05
+26,2,Master,Data Science,7,3.79,0,0,12,63,19.1
+39,15,Master,Finance,17,3.99,1,1,12,58,30.54
+49,28,High School,Marketing,18,3.26,0,0,9,92,34.31
+43,22,High School,Data Science,17,4.1,1,0,1,93,29.53
+42,21,Bachelor,Finance,9,3.23,5,0,5,89,29.1
+27,5,Bachelor,Finance,10,3.51,0,1,7,21,21.97
+22,2,Master,Finance,10,2.02,0,1,3,96,18.33
+26,5,Master,HR,7,4.08,2,1,11,46,22.59
+33,10,Master,Data Science,16,3.98,0,1,14,28,29.65
+47,24,Master,Finance,18,2.12,0,1,7,85,30.91
+55,31,PhD,HR,6,3.1,2,0,6,44,37.13
+35,15,Master,Finance,1,4.94,4,0,13,76,29.3
+47,26,Master,Data Science,1,3.26,4,0,18,8,30.29
+48,25,Master,HR,12,3.51,2,0,13,23,33.04
+30,10,Bachelor,HR,2,4.73,3,0,12,14,26.52
+47,23,High School,Engineering,4,4.15,0,1,0,35,27.87
+43,21,Bachelor,HR,17,3.75,0,1,18,12,29.99
+51,31,PhD,HR,4,4.39,2,1,0,90,40.23
+38,18,Master,Finance,11,4.59,2,1,3,43,31.47
+47,25,Bachelor,Marketing,4,3.37,3,0,9,70,31.51
+57,35,Bachelor,HR,1,3.43,5,0,2,71,38.16
+22,0,Master,HR,7,3.16,4,1,19,77,20.39
+29,5,High School,HR,18,4.9,1,1,8,75,24.14
+56,34,Bachelor,Engineering,9,4.09,5,0,2,35,36.36
+36,15,PhD,Data Science,3,2.25,4,1,5,60,26.02
+43,20,Bachelor,Finance,8,4.59,0,1,5,80,31.9
+35,14,High School,Data Science,19,3.44,5,1,11,39,28.11
+47,27,Master,Data Science,4,2.21,2,1,0,92,30.88
+49,26,PhD,Marketing,18,3.65,3,0,15,26,39.29
+44,22,Master,HR,11,3.25,4,0,4,0,29.22
+35,13,Bachelor,Finance,14,4.63,3,1,8,33,29.97
+45,22,Bachelor,Marketing,18,2.61,4,0,9,67,29.19
+23,0,Bachelor,HR,16,4.48,5,1,12,87,24.4
+47,24,Master,Data Science,3,3.67,0,1,14,20,30.03
+35,15,Master,Data Science,15,2.16,1,0,11,32,26.27
+28,4,High School,Finance,4,4.92,3,1,4,6,21.91
+24,2,PhD,HR,5,3.54,3,1,4,64,24.28
+44,21,High School,Data Science,17,2.87,1,0,17,2,24.26
+39,18,Bachelor,HR,7,3.41,3,1,11,50,29.87
+59,35,High School,Engineering,16,4.57,3,1,2,78,41.13
+56,35,Bachelor,HR,14,2.91,4,1,6,94,39.61
+36,15,Master,HR,16,2.58,4,0,16,53,29.57
+46,23,Master,HR,7,2.39,1,1,18,79,31.52
+58,35,Bachelor,Marketing,9,2.89,0,1,17,73,38.67
+49,28,Master,HR,4,4.34,5,0,0,92,38.87
+31,8,High School,Marketing,11,3.41,5,0,4,58,22.94
+38,18,Master,Marketing,2,2.68,3,1,1,5,25.92
+43,19,PhD,HR,12,2.5,0,0,0,28,28.12
+47,27,Bachelor,HR,12,3.0,1,1,6,16,29.96
+46,26,Master,Engineering,4,4.82,1,1,10,59,33.06
+38,15,Bachelor,Finance,18,3.03,4,1,10,21,27.59
+34,10,High School,Finance,7,4.96,3,0,17,23,25.34
+41,18,Bachelor,Data Science,1,3.46,2,1,16,80,22.39
+46,24,Master,Data Science,13,2.54,1,0,1,84,31.25
+25,2,Master,Marketing,6,4.67,3,1,6,50,25.27
+31,8,High School,Marketing,6,3.38,0,1,6,49,22.95
+24,1,Master,HR,12,4.13,4,1,9,10,21.27
+39,15,Master,Data Science,8,4.95,5,1,2,55,31.81
+57,34,Master,Engineering,19,2.15,0,1,11,70,40.41
+43,19,Master,Engineering,5,2.29,1,0,2,41,25.59
+55,34,Master,Data Science,18,4.16,1,1,10,38,44.75
+29,7,High School,Engineering,5,2.85,0,1,11,68,18.43
+40,16,Bachelor,Engineering,10,2.55,1,0,3,47,23.36
+58,35,PhD,Marketing,1,2.12,3,0,15,56,37.78
+27,3,Bachelor,HR,10,2.07,1,1,19,20,19.61
+47,23,PhD,Data Science,5,4.32,4,0,17,81,34.46
+55,33,Master,Engineering,12,2.4,3,1,3,98,38.83
+27,7,High School,Finance,7,3.4,2,1,5,19,20.32
+58,35,High School,Engineering,9,3.82,1,0,14,14,33.23
+54,30,Bachelor,Marketing,12,3.29,1,1,0,68,35.35
+43,20,PhD,Data Science,1,2.08,4,0,2,76,27.66
+42,21,Bachelor,Data Science,11,4.35,4,1,4,50,31.38
+27,4,Bachelor,Data Science,15,2.03,5,1,16,75,22.25
+27,4,Bachelor,Engineering,2,4.29,0,1,13,61,20.55
+25,1,High School,Finance,7,4.68,0,1,8,84,17.81
+51,27,Bachelor,HR,12,3.3,0,1,2,36,31.74
+32,8,High School,HR,18,3.61,4,1,12,5,24.92
+51,27,Master,Engineering,3,3.43,0,0,2,70,31.42
+52,32,Bachelor,Finance,7,3.17,0,0,10,25,33.92
+45,21,Bachelor,Finance,11,4.66,2,1,1,7,28.65
+30,10,Bachelor,Marketing,18,4.68,0,1,14,72,30.23
+24,4,Bachelor,Data Science,12,3.01,1,1,12,90,22.13
+52,28,PhD,Data Science,6,3.85,5,1,18,3,39.2
+58,35,Master,Finance,5,4.78,4,0,15,20,43.38
+57,35,High School,Finance,1,4.89,3,1,17,30,37.12
+45,22,Master,Finance,12,3.53,5,1,6,20,32.22
+52,32,Bachelor,Data Science,11,3.36,2,0,12,24,36.42
+27,6,High School,Finance,4,2.84,4,0,3,14,18.67
+23,1,PhD,Marketing,18,4.88,4,1,8,34,29.18
+41,18,Master,Finance,4,2.43,1,0,9,48,25.14
+49,26,PhD,Marketing,17,3.74,5,0,8,42,40.19
+32,12,Bachelor,Finance,2,2.85,5,0,6,40,22.26
+25,1,Master,Marketing,2,2.84,0,1,14,36,17.83
+36,14,Bachelor,HR,12,3.21,1,1,7,56,28.01
+27,7,Bachelor,Data Science,6,5.0,0,1,18,41,25.65
+51,29,Master,Marketing,10,2.16,0,1,10,46,35.22
+59,35,Bachelor,Engineering,16,3.74,4,0,4,91,42.15
+23,0,Master,Marketing,14,2.25,5,1,1,60,19.36
+36,16,Master,Finance,7,2.46,0,0,9,13,24.61
+32,8,Bachelor,Engineering,19,3.32,2,0,15,67,23.73
+29,8,Master,Finance,17,3.53,2,1,12,52,27.64
+47,24,Master,Marketing,9,2.78,5,1,7,83,32.71
+26,6,Bachelor,Engineering,13,2.95,2,0,8,33,21.04
+27,5,Master,Finance,5,2.26,4,0,10,75,19.01
+47,26,Master,HR,5,2.91,1,1,10,96,33.76
+25,5,Bachelor,HR,10,4.9,3,0,15,23,25.19
+40,16,Master,Data Science,10,4.83,0,0,9,19,31.77
+41,17,PhD,Data Science,7,3.0,3,0,11,68,29.29
+54,30,Bachelor,Engineering,15,3.71,1,0,5,29,34.16
+41,17,Master,Finance,7,4.73,1,1,11,87,32.85
+33,11,Bachelor,Finance,15,2.02,4,0,9,6,23.41
+22,1,Master,Marketing,3,4.43,2,0,17,35,21.52
+47,24,Master,Engineering,19,4.85,2,1,17,37,37.81
+35,13,Bachelor,HR,10,2.27,1,1,3,79,24.64
+59,35,Bachelor,Engineering,15,2.48,4,0,8,51,39.8
+58,35,Master,Engineering,3,4.88,4,0,6,14,39.05
+32,9,Bachelor,Finance,6,3.61,5,0,17,45,26.93
+57,33,Master,Finance,12,2.04,0,1,7,22,34.53
+34,12,High School,HR,15,2.77,2,1,10,11,25.72
+24,4,PhD,Marketing,6,3.35,1,1,6,92,23.08
+54,31,Master,Finance,13,4.08,5,1,8,43,43.63
+27,4,PhD,Marketing,19,4.2,3,1,7,14,29.25
+31,10,High School,Marketing,3,4.99,2,1,2,92,25.31
+26,6,Master,Finance,8,2.86,0,1,16,48,25.1
+44,24,Master,HR,8,3.61,4,0,1,20,30.84
+31,8,Bachelor,Finance,15,3.6,1,1,14,14,24.59
+23,0,Bachelor,Engineering,4,3.22,2,0,13,13,16.92
+34,13,High School,HR,19,2.51,3,0,17,41,25.81
+23,3,Master,Engineering,3,4.93,0,1,15,79,20.35
+41,18,Master,Finance,13,4.56,0,0,19,14,30.75
+22,2,High School,HR,8,3.49,5,1,3,62,18.9
+58,35,Master,Engineering,16,3.81,2,1,19,67,43.89
+30,9,Bachelor,Data Science,13,2.68,3,1,5,26,23.37
+38,16,High School,Marketing,3,3.63,0,1,5,86,25.67
+30,7,PhD,Finance,16,4.08,1,0,10,92,27.71
+32,11,PhD,Data Science,9,3.55,0,1,16,52,27.91
+36,14,Master,HR,14,4.97,3,1,2,51,33.7
+45,23,High School,Finance,13,3.83,4,1,12,62,30.26
+59,35,Master,Finance,7,3.11,4,1,2,72,42.75
+56,35,Bachelor,Marketing,15,4.32,5,0,15,52,43.7
+51,29,Bachelor,HR,7,2.51,2,1,14,56,33.45
+52,32,Bachelor,Data Science,6,3.15,3,0,10,51,35.0
+26,5,Master,HR,2,3.04,5,1,17,42,21.89
+35,11,Master,Marketing,9,3.3,0,0,14,6,26.05
+32,11,Bachelor,Engineering,17,4.35,0,1,4,41,25.33
+30,8,Master,Data Science,5,3.45,4,0,15,3,23.29
+55,33,PhD,Data Science,12,4.38,5,0,15,68,44.84
+33,12,Bachelor,HR,1,3.73,4,1,16,4,23.15
+56,35,Master,Finance,10,3.03,1,1,8,74,41.89
+56,35,PhD,Finance,11,4.43,4,1,2,91,47.43
+22,0,Bachelor,Marketing,16,2.71,1,1,19,79,20.32
+43,20,Bachelor,HR,14,2.67,0,1,12,40,28.05
+50,30,Master,Engineering,8,3.51,5,1,2,93,36.46
+29,8,Master,Data Science,17,2.78,1,0,6,3,23.63
+32,12,Master,Data Science,18,2.03,5,1,5,1,27.53
+58,35,Bachelor,Data Science,12,3.94,5,0,8,66,40.21
+35,13,PhD,HR,17,3.53,1,1,11,20,30.13
+51,31,High School,Marketing,14,3.34,2,1,14,69,36.75
+56,35,High School,Data Science,16,4.9,4,1,19,42,42.68
+42,20,Master,Finance,14,3.71,1,1,2,81,31.96
+58,35,Bachelor,HR,9,4.59,0,1,9,68,41.85
+26,5,Bachelor,Data Science,4,2.42,5,1,0,8,18.59
+40,17,Bachelor,Engineering,11,3.71,3,0,18,83,29.81
+35,12,Bachelor,Finance,6,4.6,1,1,18,27,27.89
+47,23,High School,Engineering,15,3.75,4,0,12,25,28.95
+25,5,PhD,Marketing,5,4.15,5,1,11,81,27.69
+46,25,Bachelor,Engineering,11,3.12,2,0,0,82,28.79
+46,23,Master,Data Science,18,2.28,0,0,18,2,30.17
+39,15,Master,Finance,13,3.37,2,0,15,72,28.98
+29,7,PhD,Marketing,11,3.18,3,1,14,99,28.56
+35,14,High School,Engineering,14,4.6,1,1,15,94,30.65
+53,30,PhD,Engineering,18,2.73,5,0,10,48,40.85
+59,35,Master,Engineering,19,4.9,1,1,5,16,44.23
+54,30,Master,Engineering,15,4.87,4,0,10,62,39.41
+44,21,Master,Data Science,9,2.74,1,1,2,54,29.37
+36,16,Master,Finance,8,3.04,0,1,14,22,26.49
+54,31,Bachelor,Data Science,1,4.69,3,1,0,33,36.53
+46,25,Master,Engineering,4,4.9,2,1,6,68,33.5
+38,17,Master,HR,14,3.33,3,0,0,14,31.24
+54,33,Master,Data Science,2,2.96,5,1,16,46,37.37
+23,0,PhD,Data Science,16,3.58,1,1,8,2,24.12
+35,14,Bachelor,Data Science,3,4.06,5,1,12,82,28.06
+27,7,PhD,Marketing,8,2.82,2,1,10,27,28.02
+27,4,High School,Engineering,6,4.21,5,0,19,2,18.6
+24,2,High School,Marketing,16,2.15,4,1,5,3,16.13
+28,8,High School,HR,16,2.15,3,1,0,87,19.98
+29,9,Bachelor,Engineering,7,3.16,2,0,6,30,22.9
+36,15,Master,Marketing,13,3.06,2,0,11,44,29.29
+50,26,High School,Data Science,13,2.95,2,0,19,58,28.16
+54,31,High School,Engineering,5,3.47,0,1,18,44,33.69
+51,27,PhD,HR,18,2.96,3,1,16,74,40.59
+48,25,Master,HR,15,2.58,5,0,3,36,34.92
+57,34,Master,Finance,18,2.93,2,0,2,64,39.24
+50,26,PhD,Engineering,2,4.92,3,1,0,8,36.33
+59,35,Master,Finance,10,3.23,2,1,17,16,41.65
+54,31,High School,HR,13,3.33,4,0,14,64,37.93
+58,34,Bachelor,Data Science,18,3.73,4,0,7,2,40.51
+48,25,Master,Data Science,15,4.95,4,1,0,25,37.13
+54,32,Bachelor,Engineering,12,2.72,1,0,19,52,36.43
+25,5,Master,Engineering,15,4.04,2,0,13,30,25.38
+43,22,High School,Marketing,13,4.15,1,1,3,25,31.18
+23,0,Bachelor,Data Science,18,3.82,3,1,4,22,18.95
+31,9,Master,Marketing,15,2.27,1,0,12,29,25.04
+26,5,Master,Data Science,11,4.03,3,0,14,9,21.96
+31,10,Master,HR,19,2.19,3,0,5,71,26.52
+54,31,Master,Data Science,3,3.79,3,0,0,88,37.53
+59,35,High School,Data Science,7,4.22,5,1,18,63,41.18
+34,11,High School,Engineering,14,2.63,1,1,12,21,20.47
+52,30,PhD,Data Science,14,4.52,5,1,5,14,43.58
+57,35,Master,Finance,13,2.09,2,1,14,55,44.06
+45,22,High School,Marketing,12,4.53,1,1,15,73,30.94
+36,12,Master,HR,9,3.38,2,0,15,19,26.89
+50,27,Bachelor,Engineering,1,2.65,2,1,9,46,27.15
+29,9,Bachelor,Engineering,19,2.4,3,1,8,86,24.87
+26,2,High School,Engineering,11,4.86,1,1,8,52,20.08
+50,28,Master,Finance,19,2.22,2,0,16,52,34.16
+25,4,Master,HR,18,2.6,4,1,16,0,23.8
+33,10,Bachelor,Marketing,12,3.04,2,1,16,1,25.61
+23,0,PhD,Engineering,1,3.86,4,1,11,57,20.38
+48,28,Bachelor,Finance,19,3.63,1,0,12,18,36.19
+52,28,Bachelor,Finance,17,2.38,5,1,11,61,34.99
+57,35,Bachelor,HR,5,2.87,1,1,13,77,37.95
+57,35,Bachelor,Finance,3,2.72,5,1,9,71,39.35
+47,26,High School,HR,2,2.64,5,1,18,11,28.72
+48,26,Master,HR,3,3.23,1,0,1,25,30.07
+26,3,Master,Engineering,8,4.11,2,0,3,26,21.38
+41,17,Master,HR,16,2.65,0,0,18,28,27.97
+32,12,Bachelor,Engineering,6,3.1,2,1,6,14,22.19
+31,11,High School,HR,13,3.17,2,0,14,45,21.8
+59,35,Bachelor,Data Science,16,4.93,3,1,14,0,43.11
+27,3,Bachelor,Finance,16,4.86,3,1,5,59,23.12
+29,6,Master,Marketing,3,4.4,2,0,2,91,24.83
+44,22,Bachelor,Marketing,13,2.72,4,1,5,56,31.6
+47,27,Master,HR,14,2.2,5,1,15,2,32.82
+33,10,PhD,Finance,8,2.95,3,1,1,17,26.79
+47,25,Bachelor,HR,12,2.8,2,1,6,51,31.36
+34,11,Master,Finance,8,3.52,0,1,10,59,26.53
+39,19,Master,Marketing,9,4.33,4,0,6,33,31.83
+46,22,Master,Data Science,1,4.57,1,1,3,95,31.29
+54,30,Master,Marketing,6,4.53,2,0,19,92,40.77
+33,11,Bachelor,Marketing,19,3.08,2,1,6,88,28.67
+57,35,Bachelor,HR,11,4.06,5,0,3,59,41.76
+25,3,Bachelor,Data Science,11,2.94,4,1,11,25,20.96
+26,5,Bachelor,Engineering,13,2.18,3,1,4,71,18.76
+58,35,Master,Marketing,11,4.1,3,1,18,18,45.41
+29,6,High School,Engineering,18,2.03,3,0,4,21,18.73
+49,29,PhD,Marketing,15,3.23,1,1,18,92,41.17
+52,31,Master,Finance,1,2.99,4,1,2,32,34.89
+30,10,Bachelor,Data Science,7,4.08,4,1,10,37,23.81
+50,26,Bachelor,Marketing,13,4.3,3,0,6,34,36.49
+35,14,PhD,Finance,12,2.91,3,1,16,66,32.12
+43,21,Master,Finance,18,4.43,5,1,8,82,35.41
+32,8,Master,Finance,19,2.88,0,0,8,9,25.42
+44,20,Bachelor,Data Science,15,3.34,0,1,9,90,29.53
+22,0,Bachelor,HR,8,4.18,2,1,12,14,18.3
+58,34,High School,Data Science,19,4.08,2,1,14,10,40.88
+42,21,Bachelor,Marketing,10,4.96,4,0,4,89,33.49
+47,27,Master,Marketing,7,2.68,4,1,2,23,35.38
+57,33,Master,Data Science,18,3.99,1,1,7,76,43.01
+44,23,Master,HR,16,3.83,1,1,19,95,36.84
+22,0,PhD,Finance,6,4.75,0,1,9,3,22.32
+36,15,Master,Data Science,9,2.47,2,1,12,12,26.66
+42,22,Bachelor,Marketing,13,4.26,0,1,2,72,32.66
+30,9,Bachelor,Engineering,8,3.7,0,0,7,56,21.53
+30,8,PhD,Data Science,16,2.82,2,1,8,97,28.56
+31,11,High School,Finance,13,3.42,1,1,11,36,25.22
+47,24,PhD,Finance,13,3.0,5,0,10,47,35.67
+56,34,Master,Finance,17,3.74,5,0,1,70,44.04
+46,25,High School,HR,5,4.67,5,1,17,0,29.67
+47,27,Master,Finance,17,3.71,2,1,8,59,36.76
+32,9,PhD,Finance,9,3.9,3,0,1,11,27.24
+59,35,Master,Engineering,2,3.56,3,1,1,20,36.93
+23,0,PhD,Data Science,18,2.15,3,0,2,10,20.08
+28,7,PhD,Data Science,9,2.7,4,1,15,43,23.82
+39,16,Bachelor,Data Science,6,3.48,1,1,18,57,27.4
+48,24,Bachelor,Finance,11,2.93,1,1,3,43,31.02
+55,33,PhD,Engineering,6,2.55,4,0,17,77,39.07
+48,25,Master,Data Science,6,3.51,0,1,19,97,32.66
+38,17,High School,Data Science,13,2.97,5,0,17,33,27.0
+45,24,High School,Marketing,11,2.77,3,1,9,24,28.15
+46,23,Master,Marketing,14,3.39,5,1,10,3,35.05
+28,7,PhD,Finance,2,2.4,3,1,16,63,23.17
+27,7,Master,Marketing,8,4.78,5,0,19,89,29.03
+45,25,Master,HR,3,4.6,0,1,15,15,33.56
+54,34,High School,Finance,3,4.12,5,1,19,9,37.74
+50,26,Bachelor,Engineering,1,2.32,5,0,12,65,25.44
+43,20,PhD,HR,19,4.33,2,1,1,34,37.61
+47,23,Bachelor,HR,18,4.42,5,1,1,82,35.41
+49,28,Bachelor,Finance,17,4.3,2,1,13,5,36.99
+42,18,High School,HR,13,2.34,1,1,3,18,26.19
+28,7,Master,Finance,3,3.93,4,1,16,58,26.25
+38,17,PhD,HR,1,4.5,5,0,12,52,33.51
+41,19,Bachelor,Marketing,4,3.73,1,1,3,7,25.99
+41,21,Bachelor,Data Science,13,3.94,2,1,2,77,32.38
+43,22,Master,HR,17,3.38,5,0,11,9,32.17
+49,27,PhD,Finance,11,3.59,5,1,7,66,37.96
+28,8,High School,HR,2,2.1,0,1,1,37,15.28
+22,1,Bachelor,HR,16,3.92,1,1,5,28,20.94
+53,32,Bachelor,Engineering,2,2.24,3,0,9,14,31.73
+34,10,PhD,Finance,19,3.31,3,0,11,86,31.97
+51,27,Bachelor,Data Science,19,2.88,0,1,9,22,30.34
+44,24,High School,HR,16,3.64,2,0,9,81,31.59
+40,19,Master,Finance,19,2.4,3,1,2,45,30.78
+53,30,Master,HR,9,4.07,3,0,19,82,40.44
+51,27,High School,Engineering,1,4.39,4,0,9,27,28.1
+50,30,PhD,Finance,10,2.49,1,1,8,25,33.6
+50,29,Bachelor,Data Science,19,2.31,2,0,19,9,33.83
+51,30,Master,Marketing,1,2.44,5,1,18,46,35.35
+37,14,Bachelor,Marketing,2,4.63,1,1,13,3,27.33
+40,20,Master,Marketing,16,3.58,2,0,1,54,32.03
+39,18,Bachelor,HR,12,3.4,3,0,4,65,29.01
+22,0,PhD,HR,8,2.32,4,1,19,66,22.23
+35,12,Master,Data Science,18,3.95,1,0,7,6,25.81
